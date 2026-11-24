@@ -1,0 +1,456 @@
+{
+  "name": {
+    "first": "Rineeth",
+    "last": "Chandavarapu",
+    "full": "Rineeth Chandavarapu"
+  },
+  "email": "rineeth.chandavarapu@gmail.com",
+  "tagline": "Building intelligent multi-agent systems, autonomous RL agents, and generative AI solutions.",
+  "description": "AI and software developer specialized in multi-agent workflows, reinforcement learning, generative AI, and cloud application development.",
+  "roles": {
+    "short": "AI & Software Developer",
+    "detailed": "Generative AI | Multi-Agent Systems | Reinforcement Learning"
+  },
+  "location": {
+    "based": "Ongole, Andhra Pradesh",
+    "availability": "India / Remote"
+  },
+  "available": true,
+  "bio": "AI and software developer skilled in Python, generative AI, multi-agent systems, reinforcement learning, and cloud technologies. Built AI-powered applications, including educational content generation, autonomous agents, and intelligent assistants. Pursuing a B.Tech. in Mechanical Engineering with a strong interest in Artificial Intelligence and Software Development.",
+  "stats": [
+    {
+      "value": "6",
+      "label": "AI Projects"
+    },
+    {
+      "value": "8",
+      "label": "Internships Completed"
+    },
+    {
+      "value": "8.16",
+      "label": "B.Tech CGPA"
+    }
+  ],
+  "education": {
+    "college": "PACE Institute of Technology and Sciences",
+    "degree": "Bachelor of Technology — Mechanical Engineering",
+    "gpa": "8.16",
+    "period": "Sept 2022 - June 2026",
+    "location": "Ongole, Andhra Pradesh"
+  },
+  "skills": [
+    "Python",
+    "C",
+    "SQL",
+    "Generative AI",
+    "Reinforcement Learning",
+    "Prompt Engineering",
+    "Multi-Agent Systems",
+    "RAG",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Firebase",
+    "Google Cloud",
+    "REST APIs",
+    "Kubernetes",
+    "Docker",
+    "GIT",
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "Leadership",
+    "Problem solving",
+    "Public Speaking",
+    "Time Management"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Google Student Ambassador",
+      "company": "Google Student Ambassadors (India)",
+      "companyShort": "GOOGLE AMBASSADOR",
+      "type": "Internship",
+      "location": "Ongole, AP (Hybrid)",
+      "period": "Aug 2025",
+      "periodEnd": "Jan 2026",
+      "bullets": [
+        "Lead AI initiatives on campus, organize workshops and hackathons, encourage the creative use of Gemini AI, promote Google technologies, and build student tech communities."
+      ],
+      "desc": "Campus Lead for Google technologies, community organization, and AI workshops.",
+      "tech": [
+        "Gemini AI",
+        "Google Technologies",
+        "Leadership",
+        "Community Building"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "AI Intern",
+      "company": "IntrnForte",
+      "companyShort": "INTRNFORTE",
+      "type": "Internship",
+      "location": "Bengaluru (Remote)",
+      "period": "Jun 2025",
+      "periodEnd": "Jan 2026",
+      "bullets": [
+        "Developed a Customer Insurance Purchase Prediction system using machine learning techniques.",
+        "Implemented and compared multiple classification models including Logistic Regression, KNN, Support Vector Machine (SVM), Decision Tree, and Random Forest.",
+        "Performed data preprocessing, feature scaling, and exploratory data analysis (EDA) to improve model performance.",
+        "Evaluated models using accuracy metrics and visualization techniques to identify the best-performing algorithm.",
+        "Demonstrated how AI-driven insights can support business decision-making and customer targeting strategies."
+      ],
+      "desc": "Worked on real-world machine learning applications focused on predictive analytics.",
+      "tech": [
+        "Python",
+        "Machine Learning",
+        "Logistic Regression",
+        "KNN",
+        "SVM",
+        "Decision Tree",
+        "Random Forest",
+        "EDA"
+      ]
+    },
+    {
+      "id": 3,
+      "role": "AI Agent Developer",
+      "company": "Kaggle",
+      "companyShort": "KAGGLE",
+      "type": "Internship",
+      "location": "Remote",
+      "period": "Nov 2025",
+      "periodEnd": "Dec 2025",
+      "bullets": [
+        "Built an autonomous AI agent capable of performing multi-step reasoning and task execution.",
+        "Integrated agent capabilities such as decision-making, tool usage, and contextual memory.",
+        "Designed the system to handle real-world workflows by breaking complex problems into smaller actionable steps.",
+        "Applied concepts of agentic AI including planning, execution, and evaluation.",
+        "Demonstrated how AI agents go beyond chatbots by interacting with tools and performing actions."
+      ],
+      "desc": "Developed intelligent AI agents as part of the Kaggle Agents Intensive Capstone Project.",
+      "tech": [
+        "AI Agents",
+        "Generative AI",
+        "Tool Integration",
+        "Multi-Step Reasoning"
+      ]
+    },
+    {
+      "id": 4,
+      "role": "AI Developer – Google Solutions Challenge 2025",
+      "company": "Hack2skill",
+      "companyShort": "HACK2SKILL",
+      "type": "Internship",
+      "location": "Noida (Remote)",
+      "period": "Jan 2025",
+      "periodEnd": "Jul 2025",
+      "bullets": [
+        "Built EduAI, an AI-powered platform that converts traditional lesson content into engaging video-based learning.",
+        "Leveraged Google Vertex AI and Gemini AI for intelligent content generation and automation.",
+        "Focused on enhancing digital education and improving student engagement.",
+        "Collaborated with a team to design, develop, and present a scalable solution.",
+        "Applied design thinking, problem-solving, and AI development methodologies."
+      ],
+      "desc": "Developed an AI-driven solution addressing real-world problems aligned with UN SDGs.",
+      "tech": [
+        "Vertex AI",
+        "Gemini AI",
+        "EduAI",
+        "Video Automation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "id": 5,
+      "role": "Google Cloud Intern",
+      "company": "GDG On Campus - PACE ITS",
+      "companyShort": "GDG PACE ITS",
+      "type": "Internship",
+      "location": "Ongole, AP (On-site)",
+      "period": "Sep 2024",
+      "periodEnd": "Jun 2025",
+      "bullets": [
+        "Worked with Google Cloud Platform (GCP) services to understand cloud-based application deployment and management.",
+        "Explored core cloud concepts including compute, storage, and networking.",
+        "Built and deployed cloud-based solutions using Google Cloud tools.",
+        "Gained practical exposure to scalable and distributed systems.",
+        "Strengthened understanding of cloud architecture and real-world applications."
+      ],
+      "desc": "Gained hands-on experience in cloud computing and modern application development.",
+      "tech": [
+        "Google Cloud Platform",
+        "Cloud Architecture",
+        "Compute & Storage",
+        "Deployment"
+      ]
+    },
+    {
+      "id": 6,
+      "role": "Industrial Intern",
+      "company": "VISAKHAPATNAM STEEL PLANT",
+      "companyShort": "VIZAG STEEL",
+      "type": "Full-time",
+      "location": "Vishakhapatnam (On-site)",
+      "period": "Dec 2024",
+      "periodEnd": "Jan 2025",
+      "bullets": [
+        "Observed and understood steel production processes including blast furnace operations, rolling mills, and material handling systems.",
+        "Gained practical knowledge of industrial machinery, maintenance practices, and safety protocols.",
+        "Studied workflow and operations in a large-scale manufacturing environment.",
+        "Learned about quality control, process optimization, and plant operations.",
+        "Strengthened understanding of real-world mechanical engineering applications."
+      ],
+      "desc": "Gained hands-on exposure to large-scale steel manufacturing and mechanical systems.",
+      "tech": [
+        "Mechanical Engineering",
+        "Industrial Machinery",
+        "Process Optimization",
+        "Safety Protocols"
+      ]
+    },
+    {
+      "id": 7,
+      "role": "Entrepreneurship Cell Member",
+      "company": "E-Cell, IIT Bombay (PACE ITS)",
+      "companyShort": "E-CELL PACE ITS",
+      "type": "Part-time",
+      "location": "Ongole, AP (On-site)",
+      "period": "Sep 2022",
+      "periodEnd": "Aug 2024",
+      "bullets": [
+        "Participated in organizing entrepreneurship events, workshops, and startup initiatives.",
+        "Contributed to idea generation, problem-solving, and innovation-driven activities.",
+        "Applied design thinking methodologies to develop creative solutions for real-world challenges.",
+        "Collaborated with teams to build and present startup ideas.",
+        "Enhanced skills in leadership, communication, and entrepreneurial mindset."
+      ],
+      "desc": "Promoted innovation and startup culture within the campus.",
+      "tech": [
+        "Entrepreneurship",
+        "Leadership",
+        "Design Thinking",
+        "Event Organization"
+      ]
+    },
+    {
+      "id": 8,
+      "role": "GDSC Member - Cloud Study Jams",
+      "company": "Sri Venkateshwara College of Engineering, BANGALORE",
+      "companyShort": "GDSC SVCE",
+      "type": "Internship",
+      "location": "Bangalore (Remote)",
+      "period": "Sep 2023",
+      "periodEnd": "Apr 2024",
+      "bullets": [
+        "Completed structured learning on Google Cloud Platform (GCP) fundamentals and services.",
+        "Performed hands-on labs involving compute, storage, and cloud-based deployments.",
+        "Explored real-world use cases of cloud computing and scalable systems.",
+        "Strengthened practical knowledge in cloud architecture and modern application development.",
+        "Collaborated with peers in a developer community environment."
+      ],
+      "desc": "Gained practical cloud skills through guided learning and hands-on labs.",
+      "tech": [
+        "Google Cloud Platform",
+        "Qwiklabs",
+        "Cloud Deployments",
+        "Community Learning"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "QUERYIQ",
+      "subtitle": "AI-Powered Data Intelligence Platform",
+      "type": "LLM • AI ANALYTICS",
+      "link": "https://github.com/rineethchandavarapu/QueryIQ",
+      "image": "/assets/queryiq-main.png",
+      "tech": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Express.js",
+        "Google Gemini 2.5 Flash",
+        "PostgreSQL",
+        "Prisma ORM",
+        "Tailwind CSS",
+        "Recharts",
+        "Framer Motion"
+      ],
+      "desc": "Designed and developed an enterprise-grade AI data intelligence platform converting natural language into production-ready SQL. Features deep schema-aware database analysis, a custom SQL validation guard blocking mutative commands, automated dynamic data visualization mapping, and an autonomous mock-data sandbox fallback for execution environments."
+    },
+    {
+      "id": 2,
+      "title": "SEEME",
+      "subtitle": "Enterprise Document Intelligence Platform",
+      "type": "LLM • RAG • DOCUMENT INTELLIGENCE",
+      "link": "https://github.com/rineethchandavarapu/SEEME",
+      "image": "/assets/seeme-main.png",
+      "tech": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Express.js",
+        "Google Gemini 2.5 Flash",
+        "LangChain",
+        "ChromaDB",
+        "RAG",
+        "Vector Embeddings",
+        "Tailwind CSS",
+        "Framer Motion"
+      ],
+      "desc": "Architected and developed an enterprise-grade AI document intelligence platform powered by Retrieval-Augmented Generation (RAG). Enables users to upload PDFs, perform semantic search, generate AI-powered summaries, and retrieve context-aware answers with citation support using LangChain, ChromaDB, vector embeddings, and Google Gemini."
+    },
+    {
+      "id": 3,
+      "title": "ResumeAI",
+      "subtitle": "LLM-Powered ATS Simulator",
+      "type": "Generative AI",
+      "link": "https://resumeai01.vercel.app",
+      "image": "/assets/ResumeAI.png",
+      "tech": [
+        "Next.js 14",
+        "React",
+        "Google Gemini 1.5 Flash",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Serverless API Routes"
+      ],
+      "desc": "Architected and developed a full-stack SaaS platform designed to reverse-engineer corporate Applicant Tracking Systems (ATS). Features secure PDF/DOCX parsing, deterministic semantic matching, dynamic feedback, and tailored interview prep roadmaps."
+    },
+    {
+      "id": 4,
+      "title": "Resource Flow",
+      "subtitle": "Unity in Relief, Precision in Action",
+      "type": "Real-Time Systems",
+      "link": "https://resourceflow0.vercel.app",
+      "image": "/assets/resourceflow.png",
+      "tech": [
+        "React",
+        "Real-Time Platform",
+        "Mapping APIs",
+        "Cloud Infrastructure"
+      ],
+      "desc": "An intelligent, real-time platform designed to streamline disaster relief efforts by connecting people in need with local volunteers and resources, ensuring help reaches the right place at the right time."
+    },
+    {
+      "id": 5,
+      "title": "Insurance Prediction",
+      "subtitle": "Customer Purchase Simulator",
+      "type": "Machine Learning",
+      "link": "https://drive.google.com/drive/folders/1_9PlAf10h28k-SeIc12lOOv3V18VfC1F?usp=drive_link",
+      "image": "/assets/insurance.png",
+      "imageAspect": 1,
+      "tech": [
+        "Python",
+        "Machine Learning",
+        "Logistic Regression",
+        "KNN",
+        "SVM",
+        "Decision Tree",
+        "Random Forest"
+      ],
+      "desc": "Developed a machine learning solution to predict whether customers will purchase insurance based on age and estimated salary. Built and compared multiple models, performing data preprocessing, feature scaling, and EDA."
+    },
+    {
+      "id": 6,
+      "title": "Quantum Agent",
+      "subtitle": "Maze Exploration System",
+      "type": "Multi-Agent System",
+      "link": "https://quantum-agent-demo.vercel.app/",
+      "image": "/assets/quantum.png",
+      "imageAspect": 1,
+      "tech": [
+        "Python",
+        "Kaggle",
+        "Agent-based Architecture",
+        "Workflow Orchestration"
+      ],
+      "desc": "Developed an AI-driven multi-agent system demonstrating intelligent task orchestration, autonomous decision-making, and dynamic workflow execution to simulate real-world problem-solving."
+    },
+    {
+      "id": 7,
+      "title": "MindCore AI",
+      "subtitle": "Multi-Agent AI Assistant",
+      "type": "Generative AI",
+      "link": "https://mind-core-ai.vercel.app/",
+      "image": "/assets/mindcoreai.png",
+      "tech": [
+        "Python",
+        "Lyzr AI",
+        "Gemini AI",
+        "Multi-Agent Workflows"
+      ],
+      "desc": "A multi-agent assistant built during the Lyzr AI Bootcamp for text summarization, grammar correction, and human-like conversation. Smart agents collaborate to deliver accurate, context-aware responses."
+    },
+    {
+      "id": 8,
+      "title": "EduAI",
+      "subtitle": "Smart Learning Platform",
+      "type": "Machine Learning",
+      "link": "https://eduai-project.vercel.app/",
+      "image": "/assets/eduai.png",
+      "tech": [
+        "Python",
+        "Machine Learning",
+        "Hack2skill",
+        "Smart Systems"
+      ],
+      "desc": "An AI-driven smart learning platform personalizing education via learning style prediction, AI-based doubt solving, personalized course recommendations, and student productivity tracking."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "QueryIQ Platform",
+      "platform": "GitHub",
+      "year": "2026",
+      "link": "https://github.com/rineethchandavarapu/QueryIQ",
+      "desc": "Enterprise-grade AI analytics platform converting natural language into production-ready SQL queries."
+    },
+    {
+      "id": 2,
+      "title": "SEEME Document AI",
+      "platform": "GitHub",
+      "year": "2026",
+      "link": "https://github.com/rineethchandavarapu/SEEME",
+      "desc": "Enterprise document intelligence platform using Retrieval-Augmented Generation (RAG) and ChromaDB."
+    },
+    {
+      "id": 3,
+      "title": "ResumeAI Platform",
+      "platform": "GitHub",
+      "year": "2026",
+      "link": "https://github.com/rineethchandavarapu/ResumeAI",
+      "desc": "Full-stack ATS Simulator & Career Intelligence Platform reverse-engineering recruiter algorithms."
+    },
+    {
+      "id": 4,
+      "title": "Resource Flow Relief",
+      "platform": "GitHub",
+      "year": "2026",
+      "link": "https://github.com/rineethchandavarapu/resourceflow",
+      "desc": "Intelligent, real-time disaster relief routing and volunteer management network."
+    },
+    {
+      "id": 5,
+      "title": "Quantum Agent Demo",
+      "platform": "GitHub",
+      "year": "2025",
+      "link": "https://github.com/rineethchandavarapu/Quantum-Agent-Demo",
+      "desc": "Autonomous RL and agent-based maze exploration system and task orchestration demo."
+    }
+  ],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/rineethchandavarapu"
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/rineethchandavarapu"
+    }
+  ]
+}

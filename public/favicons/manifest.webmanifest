@@ -1,0 +1,22 @@
+{
+  "name": "Rineeth Chandavarapu",
+  "short_name": "Rineeth",
+  "description": "AI and software developer building generative AI, multi-agent, and reinforcement learning solutions.",
+  "icons": [
+    {
+      "src": "/favicons/android-chrome-192x192.png?v=2",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicons/android-chrome-512x512.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#050505",
+  "background_color": "#050505",
+  "display": "standalone"
+}

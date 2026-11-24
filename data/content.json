@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "AI & Software",
+    "freelanceNote": "Open to AI, Machine Learning, Multi-Agent Systems, and Software Engineering opportunities.",
+    "availableLabel": "Available for opportunities",
+    "pills": ["Generative AI", "Multi-Agent Systems", "Reinforcement Learning", "Software Engineer"],
+    "specialistStat": { "value": "AI & ML", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["AI\nProjects", "Internships\nCompleted", "B.Tech\nGPA"]
+  },
+  "footer": {
+    "eyebrow": "Available for AI development and software engineering",
+    "ctaLines": ["Building intelligent", "autonomous systems"],
+    "ctaAccent": "innovative."
+  }
+}
